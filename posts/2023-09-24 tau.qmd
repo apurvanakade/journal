@@ -5,7 +5,7 @@ categories:
   - funny
   - database
   - math
-  - to-read
+  - to read
 ---
 
 [$\tau$ manifesto](https://tauday.com/tau-manifesto)
