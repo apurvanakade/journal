@@ -12,23 +12,23 @@ website:
         href: https://apurvanakade.github.io/notes.html
       - text: Lean
         href: https://apurvanakade.github.io/lean/
-      - text: Math Notes
-        href: https://apurvanakade.github.io/math-notes/
       - text: Scribbles
         href: https://apurvanakade.github.io/scribbles/
       - text: CV
         href: https://apurvanakade.github.io/CV.html
+      - text: Journal
+        href: https://apurvanakade.github.io/journal/
     right:
       - icon: github
-        href: https://github.com/apurvanakade/math-notes/
+        href: https://github.com/apurvanakade/journal/
         aria-label: GitHub
   # sidebar: 
   #   style: floating
   #   search: true
   #   contents: auto
   open-graph: true
-  site-url: https://github.com/apurvanakade/math-notes/
-  repo-url: https://github.com/apurvanakade/math-notes/
+  site-url: https://apurvanakade.github.io/journal/
+  repo-url: https://github.com/apurvanakade/journal/
   search:
     type: overlay
     location: navbar
