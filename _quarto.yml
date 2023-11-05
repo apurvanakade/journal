@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Scribbles"
+  title: "Journal"
   navbar:
     left:
       - text: Home
