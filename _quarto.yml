@@ -16,19 +16,19 @@ website:
         href: https://apurvanakade.github.io/scribbles/
       - text: CV
         href: https://apurvanakade.github.io/CV.html
-      - text: Journal
-        href: https://apurvanakade.github.io/journal/
+      - text: Notes
+        href: https://apurvanakade.github.io/notes/
     right:
       - icon: github
-        href: https://github.com/apurvanakade/journal/
+        href: https://github.com/apurvanakade/notes/
         aria-label: GitHub
   # sidebar: 
   #   style: floating
   #   search: true
   #   contents: auto
   open-graph: true
-  site-url: https://apurvanakade.github.io/journal/
-  repo-url: https://github.com/apurvanakade/journal/
+  site-url: https://apurvanakade.github.io/notes/
+  repo-url: https://github.com/apurvanakade/notes/
   search:
     type: overlay
     location: navbar

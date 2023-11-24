@@ -2,18 +2,22 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/2023-11-05 hollow knight.html",
-      "/posts/2023-11-04 william james podcast.html",
-      "/posts/2023-11-01 process vs goal.html",
-      "/posts/2023-10-30 casey neistat.html",
-      "/posts/2023-10-18 past lives.html",
-      "/posts/2023-09-07 smartless willem dafoe.html",
-      "/posts/2023-09-04 boardgames.html",
-      "/posts/2023-09-02 harpers ferry.html",
-      "/posts/2023-08-30 group exercise.html",
-      "/posts/2023-08-23 chandrayaan 3.html",
-      "/posts/2023-08-23 starting your day right.html",
-      "/posts/2023-08-20 begin again.html"
+      "/posts/journal/index.html",
+      "/posts/meditations/index.html",
+      "/posts/travel/index.html",
+      "/posts/meditations/2023-11-23 systems.html",
+      "/posts/journal/2023-11-05 hollow knight.html",
+      "/posts/journal/2023-11-04 william james podcast.html",
+      "/posts/journal/2023-11-01 process vs goal.html",
+      "/posts/journal/2023-10-30 casey neistat.html",
+      "/posts/journal/2023-10-18 past lives.html",
+      "/posts/journal/2023-09-07 smartless willem dafoe.html",
+      "/posts/journal/2023-09-04 boardgames.html",
+      "/posts/journal/2023-09-02 harpers ferry.html",
+      "/posts/journal/2023-08-30 group exercise.html",
+      "/posts/journal/2023-08-23 chandrayaan 3.html",
+      "/posts/journal/2023-08-23 starting your day right.html",
+      "/posts/journal/2023-08-20 begin again.html"
     ]
   }
 ]
