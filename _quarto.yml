@@ -6,29 +6,25 @@ website:
   title: "Journal"
   navbar:
     left:
-      - text: Home
-        href: https://apurvanakade.github.io/
-      - text: Notes
-        href: https://apurvanakade.github.io/notes.html
-      - text: Lean
-        href: https://apurvanakade.github.io/lean/
-      - text: Scribbles
-        href: https://apurvanakade.github.io/scribbles/
-      - text: CV
-        href: https://apurvanakade.github.io/CV.html
-      - text: Notes
-        href: https://apurvanakade.github.io/notes/
+      - text: Art
+        href: posts/art/
+      - text: Philosophy
+        href: posts/philosophy/
+      - text: Travel
+        href: posts/travel/
+      - text: Uncategorized
+        href: posts/uncategorized/
     right:
       - icon: github
-        href: https://github.com/apurvanakade/notes/
+        href: https://github.com/apurvanakade/journal/
         aria-label: GitHub
   # sidebar: 
   #   style: floating
   #   search: true
   #   contents: auto
   open-graph: true
-  site-url: https://apurvanakade.github.io/notes/
-  repo-url: https://github.com/apurvanakade/notes/
+  site-url: https://apurvanakade.github.io/journal/
+  repo-url: https://github.com/apurvanakade/journal/
   search:
     type: overlay
     location: navbar

@@ -1,5 +1,6 @@
 ---
-title: Travel
+title: Art
+
 listing:
   fields: [date, title, description, categories, author]
   sort: "date desc"
@@ -11,4 +12,4 @@ listing:
 page-layout: full
 ---
 
-My travelogues.
+My notes about books, movies, series, video games, etc.

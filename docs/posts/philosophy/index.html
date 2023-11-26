@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Journal</title>
+<title>Journal - Meditation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +23,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -61,22 +63,53 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Journal">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description','listing-categories','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../../styles.css">
+<link rel="alternate" type="application/rss+xml" title="Journal" href="index.xml"><meta property="og:title" content="Journal - Meditation">
 <meta property="og:description" content="">
 <meta property="og:site-name" content="Journal">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Journal</span>
     </a>
   </div>
@@ -87,19 +120,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./posts/art/" rel="" target="">
+    <a class="nav-link" href="../../posts/art/" rel="" target="">
  <span class="menu-text">Art</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts/philosophy/" rel="" target="">
+    <a class="nav-link" href="../../posts/philosophy/" rel="" target="">
  <span class="menu-text">Philosophy</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts/travel/" rel="" target="">
+    <a class="nav-link" href="../../posts/travel/" rel="" target="">
  <span class="menu-text">Travel</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts/uncategorized/" rel="" target="">
+    <a class="nav-link" href="../../posts/uncategorized/" rel="" target="">
  <span class="menu-text">Uncategorized</span></a>
   </li>  
 </ul>
@@ -118,16 +151,18 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="buddhism">buddhism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="habits">habits <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mindfulness">mindfulness <span class="quarto-category-count">(1)</span></div><div class="category" data-category="philosophy">philosophy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="zen">zen <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Journal</h1>
+<h1 class="title">Meditation</h1>
 </div>
 
 
@@ -142,16 +177,111 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>I’ve been blogging for as long as I can remember, starting from the early days of Blogger, Wordpress, and Tumblr, to the newer self-hosted realms of Github, Jekyll, and Hugo. Now in the new phase of my life at JHU, here I am once again starting to write again. I plan to write about the topics that currently occupy my thoughts: math, <s>teaching</s> learning, Lean, programming, meditation, philosophy of mind, books, movies, and more…</p>
-<p>For me, writing serves as a way to clarify my thoughts while staying honest and consistent. Feynman once said “<em>The first principle is not to fool yourself – and you are the easiest person to fool.</em>” Expressing your thoughts and putting them out in the world (for nobody to read) is the first step towards that. <!-- 
-The title of this post is a meditation prompt by Sam Harris.
-I'm serious about practicing meditation and mindfulness, but regrettably, not very good at it. 
-Whenever I catch myself doing something I would rather not (like procrastinating writing), I just remind myself to *Begin Again*. --></p>
-<p>So here’s to not fooling yourself and to new beginnings.</p>
+<p>My thoughts about meditation.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="buddhism,zen" data-listing-date-sort="1700855931000" data-listing-file-modified-sort="1701018580837" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="body">
+<a href="../../posts/philosophy/2023-11-23 beginners mind.html">
+<h3 class="no-anchor listing-title">
+Beginner’s Mind
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('buddhism'); return false;">
+buddhism
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('zen'); return false;">
+zen
+</div>
+</div>
+<a href="../../posts/philosophy/2023-11-23 beginners mind.html">
+<div class="listing-description">
+I was listening to a Radiolab podcast that concluded with a quote by Suzuki Roshi: <em>“In the beginner’s mind there are many possibilities, but in the expert’s there are few.”</em>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../posts/philosophy/2023-11-23 beginners mind.html">
+<div class="listing-date">
+Nov 24, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="habits" data-listing-date-sort="1700841070000" data-listing-file-modified-sort="1701015367184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="body">
+<a href="../../posts/philosophy/2023-11-23 systems.html">
+<h3 class="no-anchor listing-title">
+You Fall to Your Systems
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('habits'); return false;">
+habits
+</div>
+</div>
+<a href="../../posts/philosophy/2023-11-23 systems.html">
+<div class="listing-description">
+James Clear, the author of “Atomic Habits,” has a quote: “You do not rise to the level of your goals. You fall to the level of your systems.”
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../posts/philosophy/2023-11-23 systems.html">
+<div class="listing-date">
+Nov 24, 2023
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="mindfulness,philosophy" data-listing-date-sort="1698860318000" data-listing-file-modified-sort="1701015367183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="body">
+<a href="../../posts/philosophy/2023-11-01 process vs goal.html">
+<h3 class="no-anchor listing-title">
+Love the Process
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('mindfulness'); return false;">
+mindfulness
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('philosophy'); return false;">
+philosophy
+</div>
+</div>
+<a href="../../posts/philosophy/2023-11-01 process vs goal.html">
+<div class="listing-description">
+There are two ways of approaching any task and life in general:
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../posts/philosophy/2023-11-01 process vs goal.html">
+<div class="listing-date">
+Nov 1, 2023
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

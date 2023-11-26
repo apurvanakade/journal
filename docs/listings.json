@@ -1,23 +1,36 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/posts/travel/index.html",
     "items": [
-      "/posts/journal/index.html",
-      "/posts/meditations/index.html",
-      "/posts/travel/index.html",
-      "/posts/meditations/2023-11-23 systems.html",
-      "/posts/journal/2023-11-05 hollow knight.html",
-      "/posts/journal/2023-11-04 william james podcast.html",
-      "/posts/journal/2023-11-01 process vs goal.html",
-      "/posts/journal/2023-10-30 casey neistat.html",
-      "/posts/journal/2023-10-18 past lives.html",
-      "/posts/journal/2023-09-07 smartless willem dafoe.html",
-      "/posts/journal/2023-09-04 boardgames.html",
-      "/posts/journal/2023-09-02 harpers ferry.html",
-      "/posts/journal/2023-08-30 group exercise.html",
-      "/posts/journal/2023-08-23 chandrayaan 3.html",
-      "/posts/journal/2023-08-23 starting your day right.html",
-      "/posts/journal/2023-08-20 begin again.html"
+      "/posts/travel/2023-09-02 harpers ferry.html"
+    ]
+  },
+  {
+    "listing": "/posts/uncategorized/index.html",
+    "items": [
+      "/posts/uncategorized/2023-10-30 casey neistat.html",
+      "/posts/uncategorized/2023-09-04 boardgames.html",
+      "/posts/uncategorized/2023-08-30 group exercise.html",
+      "/posts/uncategorized/2023-08-23 chandrayaan 3.html",
+      "/posts/uncategorized/2023-08-23 starting your day right.html"
+    ]
+  },
+  {
+    "listing": "/posts/art/index.html",
+    "items": [
+      "/posts/art/movies/anatomy-of-a-fall.html",
+      "/posts/art/video games/hollow knight.html",
+      "/posts/art/podcasts/2023-11-04 william james podcast.html",
+      "/posts/art/movies/2023-10-18 past lives.html",
+      "/posts/art/podcasts/2023-09-07 smartless willem dafoe.html"
+    ]
+  },
+  {
+    "listing": "/posts/philosophy/index.html",
+    "items": [
+      "/posts/philosophy/2023-11-23 beginners mind.html",
+      "/posts/philosophy/2023-11-23 systems.html",
+      "/posts/philosophy/2023-11-01 process vs goal.html"
     ]
   }
 ]
