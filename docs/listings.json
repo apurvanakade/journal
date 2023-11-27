@@ -6,16 +6,6 @@
     ]
   },
   {
-    "listing": "/posts/uncategorized/index.html",
-    "items": [
-      "/posts/uncategorized/2023-10-30 casey neistat.html",
-      "/posts/uncategorized/2023-09-04 boardgames.html",
-      "/posts/uncategorized/2023-08-30 group exercise.html",
-      "/posts/uncategorized/2023-08-23 chandrayaan 3.html",
-      "/posts/uncategorized/2023-08-23 starting your day right.html"
-    ]
-  },
-  {
     "listing": "/posts/art/index.html",
     "items": [
       "/posts/art/movies/anatomy-of-a-fall.html",
@@ -26,8 +16,19 @@
     ]
   },
   {
+    "listing": "/posts/uncategorized/index.html",
+    "items": [
+      "/posts/uncategorized/2023-10-30 casey neistat.html",
+      "/posts/uncategorized/2023-09-04 boardgames.html",
+      "/posts/uncategorized/2023-08-30 group exercise.html",
+      "/posts/uncategorized/2023-08-23 chandrayaan 3.html",
+      "/posts/uncategorized/2023-08-23 starting your day right.html"
+    ]
+  },
+  {
     "listing": "/posts/philosophy/index.html",
     "items": [
+      "/posts/philosophy/2023-11-27 saying no.html",
       "/posts/philosophy/2023-11-23 beginners mind.html",
       "/posts/philosophy/2023-11-23 systems.html",
       "/posts/philosophy/2023-11-01 process vs goal.html"
