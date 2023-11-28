@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Journal</title>
-<link>https://apurvanakade.github.io/journal/posts/art/index.html</link>
-<atom:link href="https://apurvanakade.github.io/journal/posts/art/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://apurvanakade.github.io/journal/posts/hobbies/index.html</link>
+<atom:link href="https://apurvanakade.github.io/journal/posts/hobbies/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Sat, 25 Nov 2023 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Anatomy of a Fall</title>
-  <link>https://apurvanakade.github.io/journal/posts/art/movies/anatomy-of-a-fall.html</link>
+  <link>https://apurvanakade.github.io/journal/posts/hobbies/movies/anatomy-of-a-fall.html</link>
   <description><![CDATA[ 
 
 
@@ -30,12 +30,12 @@
   <category>courtroom</category>
   <category>beautiful</category>
   <category>movie</category>
-  <guid>https://apurvanakade.github.io/journal/posts/art/movies/anatomy-of-a-fall.html</guid>
+  <guid>https://apurvanakade.github.io/journal/posts/hobbies/movies/anatomy-of-a-fall.html</guid>
   <pubDate>Sat, 25 Nov 2023 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Hollow Knight</title>
-  <link>https://apurvanakade.github.io/journal/posts/art/video games/hollow knight.html</link>
+  <link>https://apurvanakade.github.io/journal/posts/hobbies/video games/hollow knight.html</link>
   <description><![CDATA[ 
 
 
@@ -61,12 +61,12 @@
   <category>artsy</category>
   <category>beautiful</category>
   <category>video-game</category>
-  <guid>https://apurvanakade.github.io/journal/posts/art/video games/hollow knight.html</guid>
+  <guid>https://apurvanakade.github.io/journal/posts/hobbies/video games/hollow knight.html</guid>
   <pubDate>Sun, 05 Nov 2023 18:38:51 GMT</pubDate>
 </item>
 <item>
   <title>William James - Very Bad Wizards</title>
-  <link>https://apurvanakade.github.io/journal/posts/art/podcasts/2023-11-04 william james podcast.html</link>
+  <link>https://apurvanakade.github.io/journal/posts/hobbies/podcasts/2023-11-04 william james podcast.html</link>
   <description><![CDATA[ 
 
 
@@ -81,12 +81,12 @@
  ]]></description>
   <category>habits</category>
   <category>podcast</category>
-  <guid>https://apurvanakade.github.io/journal/posts/art/podcasts/2023-11-04 william james podcast.html</guid>
+  <guid>https://apurvanakade.github.io/journal/posts/hobbies/podcasts/2023-11-04 william james podcast.html</guid>
   <pubDate>Sat, 04 Nov 2023 18:11:35 GMT</pubDate>
 </item>
 <item>
   <title>Past Lives</title>
-  <link>https://apurvanakade.github.io/journal/posts/art/movies/2023-10-18 past lives.html</link>
+  <link>https://apurvanakade.github.io/journal/posts/hobbies/movies/2023-10-18 past lives.html</link>
   <description><![CDATA[ 
 
 
@@ -101,12 +101,12 @@
 
  ]]></description>
   <category>movies</category>
-  <guid>https://apurvanakade.github.io/journal/posts/art/movies/2023-10-18 past lives.html</guid>
+  <guid>https://apurvanakade.github.io/journal/posts/hobbies/movies/2023-10-18 past lives.html</guid>
   <pubDate>Wed, 18 Oct 2023 20:21:12 GMT</pubDate>
 </item>
 <item>
   <title>Smartless - Willem Dafoe</title>
-  <link>https://apurvanakade.github.io/journal/posts/art/podcasts/2023-09-07 smartless willem dafoe.html</link>
+  <link>https://apurvanakade.github.io/journal/posts/hobbies/podcasts/2023-09-07 smartless willem dafoe.html</link>
   <description><![CDATA[ 
 
 
@@ -119,7 +119,7 @@
 
  ]]></description>
   <category>podcast</category>
-  <guid>https://apurvanakade.github.io/journal/posts/art/podcasts/2023-09-07 smartless willem dafoe.html</guid>
+  <guid>https://apurvanakade.github.io/journal/posts/hobbies/podcasts/2023-09-07 smartless willem dafoe.html</guid>
   <pubDate>Thu, 07 Sep 2023 04:00:00 GMT</pubDate>
 </item>
 </channel>

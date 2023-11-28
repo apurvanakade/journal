@@ -6,16 +6,6 @@
     ]
   },
   {
-    "listing": "/posts/art/index.html",
-    "items": [
-      "/posts/art/movies/anatomy-of-a-fall.html",
-      "/posts/art/video games/hollow knight.html",
-      "/posts/art/podcasts/2023-11-04 william james podcast.html",
-      "/posts/art/movies/2023-10-18 past lives.html",
-      "/posts/art/podcasts/2023-09-07 smartless willem dafoe.html"
-    ]
-  },
-  {
     "listing": "/posts/uncategorized/index.html",
     "items": [
       "/posts/uncategorized/2023-10-30 casey neistat.html",
@@ -23,6 +13,16 @@
       "/posts/uncategorized/2023-08-30 group exercise.html",
       "/posts/uncategorized/2023-08-23 chandrayaan 3.html",
       "/posts/uncategorized/2023-08-23 starting your day right.html"
+    ]
+  },
+  {
+    "listing": "/posts/hobbies/index.html",
+    "items": [
+      "/posts/hobbies/movies/anatomy-of-a-fall.html",
+      "/posts/hobbies/video games/hollow knight.html",
+      "/posts/hobbies/podcasts/2023-11-04 william james podcast.html",
+      "/posts/hobbies/movies/2023-10-18 past lives.html",
+      "/posts/hobbies/podcasts/2023-09-07 smartless willem dafoe.html"
     ]
   },
   {
