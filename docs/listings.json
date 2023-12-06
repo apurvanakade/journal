@@ -1,8 +1,11 @@
 [
   {
-    "listing": "/posts/travel/index.html",
+    "listing": "/posts/uncategorized/index.html",
     "items": [
-      "/posts/travel/2023-09-02 harpers ferry.html"
+      "/posts/philosophy/2023-11-27 saying no.html",
+      "/posts/philosophy/2023-11-23 beginners mind.html",
+      "/posts/philosophy/2023-11-23 systems.html",
+      "/posts/philosophy/2023-11-01 process vs goal.html"
     ]
   },
   {
@@ -25,6 +28,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "listing": "/posts/self/index.html",
     "items": [
       "/posts/self/2023-12-06 preplanning.html",
@@ -39,6 +43,11 @@
       "/posts/uncategorized/2023-08-30 group exercise.html",
       "/posts/uncategorized/2023-08-23 chandrayaan 3.html",
       "/posts/uncategorized/2023-08-23 starting your day right.html"
+=======
+    "listing": "/posts/travel/index.html",
+    "items": [
+      "/posts/travel/2023-09-02 harpers ferry.html"
+>>>>>>> b4ebcc7c22e5b5c25cfafc507bf07a0279b20571
     ]
   }
 ]
