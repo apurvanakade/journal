@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
     "listing": "/posts/travel/index.html",
     "items": [
       "/posts/travel/2023-09-02 harpers ferry.html"

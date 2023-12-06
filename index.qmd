@@ -1,5 +1,15 @@
 ---
 title: Journal
+
+listing:
+  fields: [date, title, description, categories, author]
+  sort: "date desc"
+  contents: "posts/*.qmd"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
 ---
 
 I've been blogging for as long as I can remember, starting from the early days of Blogger, Wordpress, and Tumblr, to the newer self-hosted realms of Github, Jekyll, and Hugo. Now in the new phase of my life at JHU, here I am once again starting to write again. I plan to write about the topics that currently occupy my thoughts: math, <s>teaching</s> learning, Lean, programming, meditation, philosophy of mind, books, movies, and more...
