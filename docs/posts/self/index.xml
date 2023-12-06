@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Journal</title>
+<link>https://apurvanakade.github.io/journal/posts/self/index.html</link>
+<atom:link href="https://apurvanakade.github.io/journal/posts/self/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Wed, 06 Dec 2023 19:05:50 GMT</lastBuildDate>
+<item>
+  <title>Pre-Planning</title>
+  <link>https://apurvanakade.github.io/journal/posts/self/2023-12-06 preplanning.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>There are two habits I am very serious about developing:</p>
+<ol type="1">
+<li>Regulating my sleep – going to bed early and waking up early.</li>
+<li>Planning ahead of time.</li>
+</ol>
+<p>I know people who prepare their entire courses during breaks and then just teach during the semester. They have their lectures, homework, quizzes, and even announcements and emails preprogrammed and just focus on execution during the semester. Pedagogically, I do not favor this approach as I teach better when I improvise during the semester and adapt to my students’ needs.</p>
+<p>However, I can no longer sustain improvisation. This semester, I’m teaching just one course on a trivial subject to a small group of students, yet I am overwhelmed by the number of weekly deadlines. Soon, I will be teaching more challenging courses to a larger student body and will have numerous administrative tasks, possibly with additional research duties.</p>
+<p>This means preplanning is no longer a luxury, but a <strong>necessity</strong>.</p>
+<p>This issue also affected me during my camping trip. I knew months in advance that I would be camping at Joshua Tree National Park. I could have packed and prepared days, if not weeks, in advance. Instead, I packed at the last minute, resulting in a miserable, anxiety-filled, and sleep-deprived trip to the airport.</p>
+<p>Now I know the <em>what</em>. I need to figure out the <em>how</em>.</p>
+
+
+
+ ]]></description>
+  <category>self</category>
+  <category>shortcomings</category>
+  <guid>https://apurvanakade.github.io/journal/posts/self/2023-12-06 preplanning.html</guid>
+  <pubDate>Wed, 06 Dec 2023 19:05:50 GMT</pubDate>
+</item>
+<item>
+  <title>Exam Disruptions</title>
+  <link>https://apurvanakade.github.io/journal/posts/self/2023-12-06 exam disruption.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>In my most productive days, I consistently track my time using Toggl. I switch the timer as I switch activities, ensuring my entire day is logged. However, this system isn’t completely stable for me and tends to fail when disruptions occur in my life.</p>
+<p>Lately, I haven’t been keeping track of my time, and I can pinpoint the last significant disruption to the second exam of my course! I’ve always known that exams are a major stressor for me, but I didn’t realize the impact was so pronounced.</p>
+<p>This realization of course does not remove the stressor but now I know what to look out for after the exam.</p>
+
+
+
+ ]]></description>
+  <category>self</category>
+  <category>life-events</category>
+  <category>caution</category>
+  <guid>https://apurvanakade.github.io/journal/posts/self/2023-12-06 exam disruption.html</guid>
+  <pubDate>Wed, 06 Dec 2023 18:57:06 GMT</pubDate>
+</item>
+</channel>
+</rss>

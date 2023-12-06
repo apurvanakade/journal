@@ -1,0 +1,15 @@
+---
+title: Self
+
+listing:
+  fields: [date, title, description, categories, author]
+  sort: "date desc"
+  contents: "*.qmd"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
+---
+
+Notes about self.
