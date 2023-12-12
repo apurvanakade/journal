@@ -6,8 +6,8 @@ website:
   title: "Journal"
   navbar:
     left:
-      - text: Art
-        href: posts/art/
+      - text: Hobbies
+        href: posts/hobbies/
       - text: Philosophy
         href: posts/philosophy/
       - text: Self
