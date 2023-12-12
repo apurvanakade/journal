@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/philosophy/2023-12-12 minimal setting.html",
+      "/posts/self/2023-12-12 you know enough.html",
       "/posts/hobbies/podcasts/2023-12-12 happily ever after.html",
       "/posts/hobbies/series/2023-12-12 severance.html",
       "/posts/philosophy/2023-12-07 setting intention.html",
@@ -39,6 +41,7 @@
   {
     "listing": "/posts/philosophy/index.html",
     "items": [
+      "/posts/philosophy/2023-12-12 minimal setting.html",
       "/posts/philosophy/2023-12-07 setting intention.html",
       "/posts/philosophy/2023-11-30 present moment.html",
       "/posts/philosophy/2023-11-27 saying no.html",
@@ -62,6 +65,7 @@
   {
     "listing": "/posts/self/index.html",
     "items": [
+      "/posts/self/2023-12-12 you know enough.html",
       "/posts/self/2023-12-06 preplanning.html",
       "/posts/self/2023-12-06 exam disruption.html"
     ]

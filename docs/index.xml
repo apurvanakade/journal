@@ -10,7 +10,48 @@
 <atom:link href="https://apurvanakade.github.io/journal/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 12 Dec 2023 18:41:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 12 Dec 2023 19:17:29 GMT</lastBuildDate>
+<item>
+  <title>Minimal Setting</title>
+  <link>https://apurvanakade.github.io/journal/posts/philosophy/2023-12-12 minimal setting.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>I have a theory about what meditation practice aims to achieve by urging us to “let go”. I believe consciousness or awareness is the bare minimum state of mind required to function. It’s like the OS kernel (or is the BIOS) that loads when your computer starts, before any other program is loaded in working memory. It’s the smallest piece of software necessary to indicate that your mind has booted up.</p>
+<p>In our normal existence, we run several other processes on top of it - with thinking being the most energy-consuming one. But we are also engaged in seeing, listening, reading, parsing, talking, etc. There are times when thinking is essential - after all, it’s the foundation of all modern civilization. However, most of the time, we run this program unintentionally. It becomes a runaway program that spawns many threads, each consuming significant resources - like when you have too many tabs open in your web browser.</p>
+<p>The goal of meditation is to recognize these redundant threads and shut them down as necessary. It involves realizing that most of the time, you don’t need to load anything other than your OS, and just allow the processor to relax and cool down. Of course, you occasionally need several threads, and then the processor needs to shift into intensive thinking mode, but this shouldn’t be the default state.</p>
+<p>This approach is akin to opening a task manager on your computer, deciding which threads are necessary, and terminating the unnecessary ones. I believe this leads to optimized brain function, declutters its RAM, and allows the brain to use its resources for more significant subconscious tasks.</p>
+
+
+
+ ]]></description>
+  <category>consciousness</category>
+  <category>letting-go</category>
+  <guid>https://apurvanakade.github.io/journal/posts/philosophy/2023-12-12 minimal setting.html</guid>
+  <pubDate>Tue, 12 Dec 2023 19:17:29 GMT</pubDate>
+</item>
+<item>
+  <title>You Know Enough</title>
+  <link>https://apurvanakade.github.io/journal/posts/self/2023-12-12 you know enough.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>I’ve been feeling a bit irritated, scattered, and frustrated lately. Recent chaos in my life has triggered this state of mind.</p>
+<p>I’ve noticed that I keep listening to meditation podcasts and Dharma talks, subconsciously hoping that they’ll help my mind settle down. However, I’m reminded of a point Sam Harris makes in one of his conversations (I’m paraphrasing): there’s only so much conceptual knowledge you need to acquire from others. Sure, you can continue listening to these full-time meditators and gain new insights, but that won’t significantly impact your life. You need to accept that <strong>you know enough</strong>. Now it’s time to buckle down and take extreme ownership.</p>
+<p>For me, this means recognizing that my state of frustration and irritation won’t dissipate if I bombard myself with Buddhist wisdom. I need to accept that I am responsible for this state. Although my circumstances triggered it, I am the one sustaining and aggravating it by being myopic and undisciplined.</p>
+<p>I know what I need to do. I need to stop searching for more knowledge from others and accept my state for what it is, working on it in ways <strong>I already know</strong>. The promise of meditation is not happiness, but liberation. With a sufficient understanding of self, hopefully, this state will pass sooner rather than later.</p>
+
+
+
+ ]]></description>
+  <category>self</category>
+  <category>meditation</category>
+  <category>practice</category>
+  <guid>https://apurvanakade.github.io/journal/posts/self/2023-12-12 you know enough.html</guid>
+  <pubDate>Tue, 12 Dec 2023 18:59:56 GMT</pubDate>
+</item>
 <item>
   <title>Happily Ever After</title>
   <link>https://apurvanakade.github.io/journal/posts/hobbies/podcasts/2023-12-12 happily ever after.html</link>
@@ -410,48 +451,6 @@
   <category>journal</category>
   <guid>https://apurvanakade.github.io/journal/posts/travel/2023-09-02 harpers ferry.html</guid>
   <pubDate>Sat, 02 Sep 2023 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Group Exercise</title>
-  <link>https://apurvanakade.github.io/journal/posts/uncategorized/2023-08-30 group exercise.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>I like to think that I am generally a very fit person. I exercise almost everyday and generally lead an active life. Just for fun, I recently tried a Yoga Sculpt class and it kicked my ass.</p>
-<p>This made me realize two things:</p>
-<ol type="1">
-<li>When working out alone, it’s easy to not be fully honest with oneself. I probably take longer breaks, get sidetracked by my phone, or choose lighter weights when I could handle heavier ones.</li>
-<li>We can often push ourselves more than we think. I never knew an hour-long HIIT session with weights, like Yoga Sculpt, was something I could do. I’m surprised I hadn’t tried it earlier.</li>
-</ol>
-<p>I once tried a yoga class via livestream, but it didn’t feel the same. The poses might have been identical, but the intensity was different.</p>
-<p>I’ve started to see the benefits of group classes. They push you harder and offer new experiences you might not encounter otherwise.</p>
-
-
-
- ]]></description>
-  <category>journal</category>
-  <guid>https://apurvanakade.github.io/journal/posts/uncategorized/2023-08-30 group exercise.html</guid>
-  <pubDate>Wed, 30 Aug 2023 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Chandrayaan-3</title>
-  <link>https://apurvanakade.github.io/journal/posts/uncategorized/2023-08-23 chandrayaan 3.html</link>
-  <description><![CDATA[ 
-
-
-
-<p>India landed Chandrayaan-3 on the Moon! Amazing!!!</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gvj3w59EaFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
-</iframe>
-<p><img src="https://apurvanakade.github.io/journal/posts/uncategorized/https:/media.tenor.com/XUAONVsG6qIAAAAC/leonardo-dicaprio-clapping.gif" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>journal</category>
-  <guid>https://apurvanakade.github.io/journal/posts/uncategorized/2023-08-23 chandrayaan 3.html</guid>
-  <pubDate>Wed, 23 Aug 2023 18:45:49 GMT</pubDate>
 </item>
 </channel>
 </rss>
