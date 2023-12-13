@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://apurvanakade.github.io/journal/index.html</loc>
-    <lastmod>2023-12-13T13:27:15.855Z</lastmod>
+    <lastmod>2023-12-13T17:42:24.264Z</lastmod>
   </url>
   <url>
     <loc>https://apurvanakade.github.io/journal/posts/travel/index.html</loc>
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://apurvanakade.github.io/journal/posts/self/index.html</loc>
-    <lastmod>2023-12-13T13:27:13.898Z</lastmod>
+    <lastmod>2023-12-13T17:42:22.286Z</lastmod>
   </url>
   <url>
     <loc>https://apurvanakade.github.io/journal/posts/uncategorized/2023-09-04 boardgames.html</loc>
@@ -119,5 +119,9 @@
   <url>
     <loc>https://apurvanakade.github.io/journal/posts/self/2023-12-13 life as a game.html</loc>
     <lastmod>2023-12-13T13:27:13.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://apurvanakade.github.io/journal/posts/self/2023-12-13 life is hard.html</loc>
+    <lastmod>2023-12-13T17:42:21.541Z</lastmod>
   </url>
 </urlset>
