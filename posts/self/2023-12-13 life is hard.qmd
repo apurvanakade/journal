@@ -2,8 +2,8 @@
 title: Life is Hard
 date: 2023-12-13 12:24:39
 categories:
+  - self
   - mindfulness
-  - relief
 ---
 
 I was under some stress and anxiety, which, looking back, was completely unnecessary and self-imposed, but did not feel so in the midst of it. Then, suddenly, yesterday, it thawed and gradually went away. I'm trying to figure out what helped me alleviate it.
