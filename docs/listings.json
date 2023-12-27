@@ -25,7 +25,6 @@
       "/posts/uncategorized/2023-08-23 starting your day right.html",
       "/posts/hobbies/index.html",
       "/posts/philosophy/index.html",
-      "/posts/self/index.html",
       "/posts/travel/index.html",
       "/posts/uncategorized/index.html"
     ]
@@ -34,6 +33,18 @@
     "listing": "/posts/travel/index.html",
     "items": [
       "/posts/travel/2023-09-02 harpers ferry.html"
+    ]
+  },
+  {
+    "listing": "/posts/philosophy/index.html",
+    "items": [
+      "/posts/philosophy/2023-12-12 minimal setting.html",
+      "/posts/philosophy/2023-12-07 setting intention.html",
+      "/posts/philosophy/2023-11-30 present moment.html",
+      "/posts/philosophy/2023-11-27 saying no.html",
+      "/posts/philosophy/2023-11-23 beginners mind.html",
+      "/posts/philosophy/2023-11-23 systems.html",
+      "/posts/philosophy/2023-11-01 process vs goal.html"
     ]
   },
   {
@@ -57,22 +68,6 @@
       "/posts/hobbies/podcasts/2023-11-04 william james podcast.html",
       "/posts/hobbies/movies/2023-10-18 past lives.html",
       "/posts/hobbies/podcasts/2023-09-07 smartless willem dafoe.html"
-    ]
-  },
-  {
-    "listing": "/posts/self/index.html",
-    "items": []
-  },
-  {
-    "listing": "/posts/philosophy/index.html",
-    "items": [
-      "/posts/philosophy/2023-12-12 minimal setting.html",
-      "/posts/philosophy/2023-12-07 setting intention.html",
-      "/posts/philosophy/2023-11-30 present moment.html",
-      "/posts/philosophy/2023-11-27 saying no.html",
-      "/posts/philosophy/2023-11-23 beginners mind.html",
-      "/posts/philosophy/2023-11-23 systems.html",
-      "/posts/philosophy/2023-11-01 process vs goal.html"
     ]
   }
 ]
