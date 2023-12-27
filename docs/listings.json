@@ -2,17 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/self/2023-12-14 multiple games.html",
-      "/posts/self/2023-12-13 life is hard.html",
-      "/posts/self/2023-12-13 life as a game.html",
+      "/posts/hobbies/series/2023-12-26 blue eye samurai.html",
       "/posts/philosophy/2023-12-12 minimal setting.html",
-      "/posts/self/2023-12-12 you know enough.html",
       "/posts/hobbies/podcasts/2023-12-12 happily ever after.html",
       "/posts/hobbies/series/2023-12-12 severance.html",
       "/posts/philosophy/2023-12-07 setting intention.html",
       "/posts/philosophy/2023-11-30 present moment.html",
-      "/posts/self/2023-12-06 preplanning.html",
-      "/posts/self/2023-12-06 exam disruption.html",
       "/posts/philosophy/2023-11-27 saying no.html",
       "/posts/hobbies/movies/anatomy-of-a-fall.html",
       "/posts/philosophy/2023-11-23 beginners mind.html",
@@ -42,20 +37,19 @@
     ]
   },
   {
-    "listing": "/posts/philosophy/index.html",
+    "listing": "/posts/uncategorized/index.html",
     "items": [
-      "/posts/philosophy/2023-12-12 minimal setting.html",
-      "/posts/philosophy/2023-12-07 setting intention.html",
-      "/posts/philosophy/2023-11-30 present moment.html",
-      "/posts/philosophy/2023-11-27 saying no.html",
-      "/posts/philosophy/2023-11-23 beginners mind.html",
-      "/posts/philosophy/2023-11-23 systems.html",
-      "/posts/philosophy/2023-11-01 process vs goal.html"
+      "/posts/uncategorized/2023-10-30 casey neistat.html",
+      "/posts/uncategorized/2023-09-04 boardgames.html",
+      "/posts/uncategorized/2023-08-30 group exercise.html",
+      "/posts/uncategorized/2023-08-23 chandrayaan 3.html",
+      "/posts/uncategorized/2023-08-23 starting your day right.html"
     ]
   },
   {
     "listing": "/posts/hobbies/index.html",
     "items": [
+      "/posts/hobbies/series/2023-12-26 blue eye samurai.html",
       "/posts/hobbies/podcasts/2023-12-12 happily ever after.html",
       "/posts/hobbies/series/2023-12-12 severance.html",
       "/posts/hobbies/movies/anatomy-of-a-fall.html",
@@ -67,23 +61,18 @@
   },
   {
     "listing": "/posts/self/index.html",
-    "items": [
-      "/posts/self/2023-12-14 multiple games.html",
-      "/posts/self/2023-12-13 life is hard.html",
-      "/posts/self/2023-12-13 life as a game.html",
-      "/posts/self/2023-12-12 you know enough.html",
-      "/posts/self/2023-12-06 preplanning.html",
-      "/posts/self/2023-12-06 exam disruption.html"
-    ]
+    "items": []
   },
   {
-    "listing": "/posts/uncategorized/index.html",
+    "listing": "/posts/philosophy/index.html",
     "items": [
-      "/posts/uncategorized/2023-10-30 casey neistat.html",
-      "/posts/uncategorized/2023-09-04 boardgames.html",
-      "/posts/uncategorized/2023-08-30 group exercise.html",
-      "/posts/uncategorized/2023-08-23 chandrayaan 3.html",
-      "/posts/uncategorized/2023-08-23 starting your day right.html"
+      "/posts/philosophy/2023-12-12 minimal setting.html",
+      "/posts/philosophy/2023-12-07 setting intention.html",
+      "/posts/philosophy/2023-11-30 present moment.html",
+      "/posts/philosophy/2023-11-27 saying no.html",
+      "/posts/philosophy/2023-11-23 beginners mind.html",
+      "/posts/philosophy/2023-11-23 systems.html",
+      "/posts/philosophy/2023-11-01 process vs goal.html"
     ]
   }
 ]
