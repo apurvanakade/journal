@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/hobbies/movies/2024-01-01 godzilla minus one.html",
+      "/posts/hobbies/movies/2024-01-08 poor things.html",
       "/posts/hobbies/series/2023-01-02 tom scott.html",
       "/posts/hobbies/series/2023-12-26 blue eye samurai.html",
       "/posts/philosophy/2023-12-12 minimal setting.html",
@@ -61,6 +63,8 @@
   {
     "listing": "/posts/hobbies/index.html",
     "items": [
+      "/posts/hobbies/movies/2024-01-01 godzilla minus one.html",
+      "/posts/hobbies/movies/2024-01-08 poor things.html",
       "/posts/hobbies/series/2023-01-02 tom scott.html",
       "/posts/hobbies/series/2023-12-26 blue eye samurai.html",
       "/posts/hobbies/podcasts/2023-12-12 happily ever after.html",
