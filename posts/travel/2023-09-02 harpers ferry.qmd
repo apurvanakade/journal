@@ -2,7 +2,8 @@
 title: Harper's Ferry
 date: 2023-09-02
 categories:
-  - journal
+  - travel
+  - hiking
 ---
 
 Over the last couple of years, I lived in Chicago and couldn't go on hikes.

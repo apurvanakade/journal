@@ -2,6 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/memories/2024-06-09 candles.html",
+      "/posts/hobbies/movies/2024-02-18 burning.html",
+      "/posts/hobbies/movies/2024-02-24 perfect days.html",
+      "/posts/hobbies/movies/2024-02-17 american fiction.html",
       "/posts/hobbies/movies/2024-02-09 mindgame.html",
       "/posts/hobbies/movies/2024-01-01 godzilla minus one.html",
       "/posts/hobbies/movies/2024-01-08 poor things.html",
@@ -28,6 +32,7 @@
       "/posts/uncategorized/2023-08-23 chandrayaan 3.html",
       "/posts/uncategorized/2023-08-23 starting your day right.html",
       "/posts/hobbies/index.html",
+      "/posts/memories/index.html",
       "/posts/philosophy/index.html",
       "/posts/travel/index.html",
       "/posts/uncategorized/index.html"
@@ -64,6 +69,9 @@
   {
     "listing": "/posts/hobbies/index.html",
     "items": [
+      "/posts/hobbies/movies/2024-02-18 burning.html",
+      "/posts/hobbies/movies/2024-02-24 perfect days.html",
+      "/posts/hobbies/movies/2024-02-17 american fiction.html",
       "/posts/hobbies/movies/2024-02-09 mindgame.html",
       "/posts/hobbies/movies/2024-01-01 godzilla minus one.html",
       "/posts/hobbies/movies/2024-01-08 poor things.html",
@@ -76,6 +84,12 @@
       "/posts/hobbies/podcasts/2023-11-04 william james podcast.html",
       "/posts/hobbies/movies/2023-10-18 past lives.html",
       "/posts/hobbies/podcasts/2023-09-07 smartless willem dafoe.html"
+    ]
+  },
+  {
+    "listing": "/posts/memories/index.html",
+    "items": [
+      "/posts/memories/2024-06-09 candles.html"
     ]
   }
 ]

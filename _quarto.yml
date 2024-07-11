@@ -8,6 +8,8 @@ website:
     left:
       - text: Hobbies
         href: posts/hobbies/
+      - text: Memories
+        href: posts/memories/
       - text: Philosophy
         href: posts/philosophy/
       - text: Travel
