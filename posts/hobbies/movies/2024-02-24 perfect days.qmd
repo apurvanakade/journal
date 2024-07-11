@@ -5,6 +5,7 @@ categories:
   - korean
   - thriller
   - psychological
+draft: true
 ---
 
 I'm not sure what I watched. It reminded me a lot of "Memories of a Murder", one of my favorite movies. But unlike that movie, *Burning* does not have a firm objective reality. This movie is 
